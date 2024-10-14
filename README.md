@@ -1,7 +1,5 @@
 # Data-Science-Projects
 
-# Data Scientist professional program
-
 
 These projects I completed for Tripleten's Data Scientist professional training program.
 
@@ -24,8 +22,6 @@ These projects I completed for Tripleten's Data Scientist professional training 
 |[Good Seed Supermarket]() | Explore if Computer vision methods can be used to determine age of a person from a photo and whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. |*pandas, numpy, matplotlib, seaborn, tensorflow*|
 |[Telecom]() | Find which factors influence someone not leaving telecom, predict whether or not a user will have an end date. |*pandas, numpy, sklearn, pandas_profiling, catboost, tensorflow*|
 
-
-# Programa profesional de Data Scientist
 
 Estos proyectos los completé para el programa de formación profesional de Data Scientist de Tripleten.
 
